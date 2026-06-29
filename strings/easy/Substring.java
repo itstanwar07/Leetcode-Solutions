@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Substring {
 
     // Function to count how many patterns are substrings of the given word
     public static int numOfStrings(String[] patterns, String word) {
