@@ -12,11 +12,3 @@ Welcome to my personal archive of Data Structures and Algorithms solutions. This
 
 Solutions are split clearly into folders by topic, and then separated into `Easy`, `Medium`, or `Hard` directories.
 
-```text
-📦 leetcode-solutions
- ┣ 📂 01_Arrays_&_Hashing
- ┃ ┣ 📂 Easy
- ┃ ┣ 📂 Medium
- ┃ ┗ 📂 Hard
- ┣ 📂 02_Two_Pointers
- ┗ 📜 README.md
