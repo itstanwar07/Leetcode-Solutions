@@ -10,7 +10,7 @@ Welcome to my personal archive of Data Structures and Algorithms solutions. This
 
 ## 📂 Repository Structure
 
-Solutions are split clearly into folders by topic, and then separated into `Easy`, `Medium`, or `Hard` directories.
+Solutions are split clearly into the Repo which are allign as the leetcode problem set.
 
 
 <!---LeetCode Topics Start-->
