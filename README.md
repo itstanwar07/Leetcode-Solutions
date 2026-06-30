@@ -18,6 +18,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -31,5 +32,6 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
