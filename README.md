@@ -33,6 +33,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -94,4 +95,8 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
