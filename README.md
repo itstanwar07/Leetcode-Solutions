@@ -33,6 +33,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -66,6 +67,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -82,6 +84,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
