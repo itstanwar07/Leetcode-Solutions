@@ -49,6 +49,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
