@@ -38,6 +38,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0485-max-consecutive-ones](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
