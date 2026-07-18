@@ -46,6 +46,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1470-shuffle-the-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +60,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [0009-palindrome-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -168,6 +170,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
