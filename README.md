@@ -220,4 +220,8 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
