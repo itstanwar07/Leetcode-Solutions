@@ -53,6 +53,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0485-max-consecutive-ones](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -79,6 +80,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0009-palindrome-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -147,6 +149,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -260,4 +263,5 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
