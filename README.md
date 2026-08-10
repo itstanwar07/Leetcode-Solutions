@@ -65,6 +65,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1406-stone-game-iii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1672-richest-customer-wealth](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -142,6 +143,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [1260-shift-2d-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
