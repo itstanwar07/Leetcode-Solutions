@@ -22,6 +22,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -66,6 +67,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -94,6 +96,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -258,6 +261,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
