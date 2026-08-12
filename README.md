@@ -24,6 +24,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -51,6 +52,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
