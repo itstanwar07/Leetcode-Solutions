@@ -25,6 +25,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -41,6 +42,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0151-reverse-words-in-a-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
