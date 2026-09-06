@@ -42,6 +42,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -221,6 +222,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
