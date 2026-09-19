@@ -147,6 +147,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -458,4 +459,8 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
