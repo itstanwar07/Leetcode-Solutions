@@ -20,6 +20,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -50,6 +51,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [0151-reverse-words-in-a-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -201,6 +203,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -284,6 +287,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [0056-merge-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -392,6 +396,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -415,6 +420,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
