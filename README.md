@@ -47,6 +47,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -400,6 +401,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -494,6 +496,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
