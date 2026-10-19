@@ -62,6 +62,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1773-count-items-matching-a-rule](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -118,6 +119,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1872-stone-game-viii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
