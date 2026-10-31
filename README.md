@@ -157,6 +157,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -262,6 +263,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [3524-find-x-value-of-array-i](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
 | ------- |
