@@ -99,6 +99,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [0001-two-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -172,6 +173,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0877-stone-game) |
