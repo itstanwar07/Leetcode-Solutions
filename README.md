@@ -114,6 +114,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1301-number-of-paths-with-max-score](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -224,6 +225,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -340,6 +342,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1288-remove-covered-intervals](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -378,6 +381,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
