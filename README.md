@@ -125,6 +125,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | [1512-number-of-good-pairs](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -260,6 +261,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -362,6 +364,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 | ------- |
 | [1260-shift-2d-grid](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1920-build-array-from-permutation](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -534,6 +537,7 @@ Solutions are split clearly into the Repo which are allign as the leetcode probl
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/itstanwar07/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Linked List
 |  |
